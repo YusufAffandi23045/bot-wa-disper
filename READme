@@ -1,0 +1,21 @@
+# Bot WhatsApp Dinas Perikanan Kab. Gresik
+
+Bot ini dibuat menggunakan Node.js dan library Baileys
+sebagai media layanan informasi otomatis.
+
+## Fitur
+- Menu interaktif berbasis angka
+- Informasi Perikanan Tangkap, Budidaya, dan P2HP
+- Sistem state untuk menjaga alur percakapan
+- Pembatasan jam kerja (opsional)
+
+## Cara Menjalankan
+1. Install dependencies
+   npm install
+2. Jalankan bot
+   npm start
+3. Scan QR Code melalui WhatsApp
+
+## Catatan
+Pengujian dilakukan secara terbatas karena adanya
+pembatasan pairing dari WhatsApp.
